@@ -1,5 +1,14 @@
-<h1 align="center"> 👋 Hello, I'm Ankit Diyal!</h1>
+<h1 align="center">Hi 👋, I'm Anky</h1>
+<h3 align="left">A passionate IT student from Nepal</h3>
 
-[![](https://raw.githubusercontent.com/anky17/anky17/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/anky17/anky17/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/anky17/anky17/master/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/anky17/anky17/master/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/anky17/anky17/master/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- 🌱 I’m currently learning **Java**
+
+- ⚡ Fun fact **My cat has walked across my keyboard more times than I've compiled code without errors.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ankyizwack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankyizwack" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
