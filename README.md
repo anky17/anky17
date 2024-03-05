@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Anky</h1>
 <h3 align="left">A passionate IT student from Nepal</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **everything I can.**
 
 - ⚡ Fun fact **My cat has walked across my keyboard more times than I've compiled code without errors.**
 
