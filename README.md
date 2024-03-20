@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anky</h1>
+<h1 align="center">Hi 👋, I'm Ankit but they call me Ankyy</h1>
 <h3 align="center">A passionate IT student from Nepal</h3>
 
 - 🌱 I’m currently learning **everything I can.**
