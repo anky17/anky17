@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **ankitdiyal17@gmail.com**
 
-- ⚡ Fun fact **My cat has walked across my keyboard more times than I've compiled code without errors.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
