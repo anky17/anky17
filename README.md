@@ -14,7 +14,6 @@
 - 🌱 I'm currently learning **Flutter** and exploring mobile app development  
 - 💼 IT student passionate about technology and software development  
 - 📫 How to reach me: **ankitdiyal17@gmail.com**  
-- 🌐 Visit my portfolio: [ankitdiyal.com.np](https://ankitdiyal.com.np)  
 
 ---
 
