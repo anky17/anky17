@@ -15,7 +15,7 @@
 
 ## 🛠️ What I use
 
-`Dart` • `Flutter` • `Firebase` • `App Deployment` • `HTML/CSS` • `JavaScript` • `React.JS` • `Python`
+`Flutter` •  `Dart` • `Firebase` • `App Deployment` • `CI/CD` • `HTML/CSS` • `JavaScript` • `React.JS` • `Python`
 
 ---
 
