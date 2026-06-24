@@ -1,13 +1,11 @@
-# 👋 Hi, I'm Ankit (aka Ankyy)
-
-> IT student from Nepal who builds things with Flutter
+# 👋 Hi, I'm Ankit
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🌱 Learning **Flutter** • Mobile dev • Building real stuff
-- 💼 IT student • Turning ideas into apps
+- 💼 CS • Turning ideas into apps
 - 📫 **ankitdiyal17@gmail.com**
 
 ---
@@ -15,7 +13,7 @@
 
 ## 🛠️ What I use
 
-`Flutter` •  `Dart` • `Firebase` • `App Deployment` • `CI/CD` • `HTML/CSS` • `JavaScript` • `React.JS` • `Python`
+`Flutter` •  `Dart` • `Firebase` • `CI/CD` • `HTML/CSS` • `JavaScript` • `React.JS` • `Python`
 
 ---
 
